@@ -1,15 +1,15 @@
 <h1 align="center">Namaste 👋, I'm Nagesh Dwivedi</h1>
-<h3 align="center">MLOps Sr. Engineer From Ghaziabad Uttar Pradesh India</h3>
+<h3 align="center">Artificial Intelligence Engineer From Gautam Budh Nagar Uttar Pradesh India</h3>
 
 ```js
-import MLOps Sr. Engineer from 'India';
-class Bio extends MLOps Sr. Engineer {
+import AI Engineer from 'India';
+class Bio extends AI Engineer {
   name     = 'Nagesh Dwivedi';
-  title    = 'AI Architect' || 'MLOps Sr. Engineer' || 'Reinforcement Learning Sr. Engineer';
+  title    = 'AI Architect' || 'AI Engineer' || 'Reinforcement Learning Engineer';
   location = 'Ghaziabad Uttar Pradesh, India' || 'Remote ' || 'Anywhere';
   availability = "Available to hire!!";
 }
-class Skills extends MLOps Sr. Engineer {
+class Skills extends AI Engineer {
   frontend  = ['JavaScript', 'HTML', 'CSS'];
   backend = ['FastAPI', 'Flask', 'Python'];
   ML = ['Reinforcement Learning', 'MLOps','AWS'];
