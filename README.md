@@ -20,7 +20,7 @@ class Skills extends AI Engineer {
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagesh7588" alt="nagesh7588" /></a> </p>
 
-- 🔭 I’m currently working on [Reinforcement Learning Backend](https://github.com/nagesh7588)
+- 🔭 I’m currently working on [Artificial Intelligence Engineer](https://github.com/nagesh7588)
 
 - 🌱 I’m currently practicing **MLOps**
 
