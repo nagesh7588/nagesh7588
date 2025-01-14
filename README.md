@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Nagesh Dwivedi</h1>
-<h3 align="center">Artificial Intelligence Engineer From Gautam Budh Nagar Uttar Pradesh India</h3>
+<h3 align="center">Artificial Intelligence Solution Architect From Gautam Budh Nagar Uttar Pradesh India</h3>
 
 ```js
 import AI Engineer from 'India';
