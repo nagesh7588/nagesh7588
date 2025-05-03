@@ -1,9 +1,9 @@
 <h1 align="center">Namaste 👋, I'm Nagesh Dwivedi</h1>
-<h3 align="center">Artificial Intelligence Solution Architect From Gautam Budh Nagar Uttar Pradesh India</h3>
+<h3 align="center">Artificial Intelligence Solution Architect Director From Gautam Budh Nagar Uttar Pradesh India</h3>
 
 ```js
 import AI Engineer from 'India';
-class Bio extends AI Engineer {
+class Bio extends AI Solution Architect Director {
   name     = 'Nagesh Dwivedi';
   title    = 'AI Architect' || 'AI Engineer' || 'Reinforcement Learning Engineer';
   location = 'Ghaziabad Uttar Pradesh, India' || 'Remote ' || 'Anywhere';
