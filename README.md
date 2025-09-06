@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence Solution Architect Director From Gautam Budh Nagar Uttar Pradesh India</h3>
 
 ```js
-import AI Engineer from 'India';
+import AI CTO from 'India';
 class Bio extends AI Solution Architect Director {
   name     = 'Nagesh Dwivedi';
   title    = 'AI Architect' || 'AI Engineer' || 'Reinforcement Learning Engineer';
